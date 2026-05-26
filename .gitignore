@@ -1,0 +1,7 @@
+### `.gitignore`
+To prevent system clutter from uploading to GitHub, paste this into your `.gitignore` file:
+```text
+__pycache__/
+*.pyc
+.bytecode/
+.vscode/

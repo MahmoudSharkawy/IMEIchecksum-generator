@@ -10,4 +10,4 @@ A high-performance Python implementation of a custom mathematical validation alg
 ## Usage
 Run the script using Python 3:
 ```bash
-python generator.py
+python generator.py# IMEIchecksum-generator
